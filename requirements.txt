@@ -1,0 +1,4 @@
+transformers
+langchain-community
+python-dotenv
+langchain_huggingface
